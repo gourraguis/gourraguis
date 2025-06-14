@@ -2,7 +2,7 @@
 
 ## What Do I Do?
 
-I write code to solve problems. Mostly, that means building full-stack web applications – think Node.js or Python on the backend, React on the frontend. I've also been integrating AI models into projects where it adds real value.
+I write code to solve problems. Mostly, that means building full-stack web applications – think Python on the backend, React on the frontend. I've also been integrating AI models into projects where it adds real value.
 
 ## My Work Philosophy
 
