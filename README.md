@@ -1,51 +1,54 @@
-> I believe the best way to grow is to assume I'm not better than average. This student's mindset helps me listen, ask, and learn continuously. It’s not about self-doubt, but a practical path to improvement—focusing on the journey, not just achievements. Viewing work as practice frees me from fearing mistakes, empowering exploration, deep learning, and building impactful solutions.
+### Hello, I'm Abderrahmane.
 
-## What Do I Do?
+I build systems that act as a **force multiplier**. My focus is on shipping solutions that solve real problems, which means my work isn't done until the team I'm supporting is more capable and effective. 
 
-I write code to solve problems. Mostly, that means building full-stack web applications – think Python on the backend, React on the frontend. I've also been integrating AI models into projects where it adds real value.
+This could mean re-architecting a microservice to **cut costs by 57%** at Deel, empowering a marketing team to be self-sufficient at Turing, or integrating an AI model at Al Jazeera that **saves reporters 20% of their time**.
 
-## My Work Philosophy
+You can ask my AI assistant about the stories behind my work at [gourragui.com](https://gourragui.com/).
+
+---
+
+## My Open Source Projects
+
+I believe in building in public and sharing what I learn. Here are a couple of projects I've created.
+
+**[Glasses MCP 👓](https://github.com/gourraguis/glasses-mcp)**
+> A simple but powerful tool that gives AI assistants the ability to "see" the web. It acts as a server that can take device-specific screenshots of any URL, giving visual context to language models.
+
+**[AI-Powered Portfolio](https://github.com/gourraguis/fixer)**
+> My personal portfolio, designed to be a bold and confident AI-powered conversational experience. It allows visitors to interact with a chatbot that knows my professional story, turning a static resume into a dynamic conversation.
+
+## My Guiding Principles
+
+These principles aren't just words on a page; they are the framework for how I build software and collaborate with teams.
 
 <table>
   <tr>
     <td valign="top" align="left" width="33%">
-      <strong>Define</strong>
-      <p>Clearly define the purpose and value of your product. A precise <i>definition</i> ensures focus and prevents wasted effort on misaligned features.</p>
+      <strong>Impact</strong>
+      <p>My goal is to be a force multiplier, building systems and sharing knowledge that makes everyone I work with more effective.</p>
     </td>
     <td valign="top" align="left" width="33%">
-      <strong>Implement</strong>
-      <p>Build with the end-user in mind. Ensure the <i>implementation</i> is functional, intuitive, and engaging for a seamless user experience, vital for success.</p>
+      <strong>Clarity</strong>
+      <p>I believe in mastering complexity to create solutions that are powerful, yet feel simple and intuitive to use.</p>
     </td>
     <td valign="top" align="left" width="33%">
-      <strong>Showcase</strong>
-      <p>Present your product creatively and professionally. A compelling <i>showcase</i> highlights its qualities and value, preventing it from being overlooked.</p>
+      <strong>Adaptability</strong>
+      <p>I see unlearning as a critical skill, allowing me to let go of old assumptions and embrace better ways of working.</p>
     </td>
   </tr>
 </table>
 
-_Inspired by [The Apple Marketing Philosophy (1977)](https://www.customerengagementinsider.com/digital-strategy/articles/what-we-can-learn-apple-marketing-philosophy)_
+## My Toolkit
 
-## Skills
+Technology is a means to an end, but having the right tools—and knowing them well—is crucial. Here are the ones I've used most extensively.
 
-#### Core Competencies
-- 8+ years of experience in software engineering and architecture
-- Fluent in English and French
-- Expert in Git and GitHub ("Git wizard")
-- System Design, Microservice Architecture, API Design & Integration
-- Performance Optimization, A/B Testing, Data Analytics
-
-#### Languages & Frameworks
-- **Python:** Hugging Face, Llama, FastAPI
-- **JavaScript/TypeScript:** Node.js, React, Next.js
-- **Backend Frameworks:** NestJS, Express.js, Go
-- Experience with Vue.js, Serverless Framework
-
-#### Databases & Cloud Platforms
+- **Languages:** Python, Go, JavaScript, TypeScript
+- **Frontend:** React, Next.js, Vue.js
+- **Backend:** NestJS, Express.js, FastAPI, Serverless
+- **AI & ML:** PyTorch, Hugging Face, LlamaIndex, LangChain
 - **Databases:** PostgreSQL, MongoDB
-- **Cloud Platforms:** AWS (incl. Lambdas), GCP
-- DevOps & CI/CD (Jenkins experience)
+- **Cloud & DevOps:** AWS, GCP, Docker, GitHub Actions
 
-#### AI, Analytics & Specialized Tools
-- **Generative AI & ML:** Model integration (Llama), foundational model development
-- **Analytics & MarTech:** Mixpanel, Amplitude, SendGrid API
-- **Web Technologies:** Puppeteer (Web Scraping)
+> **That Time I Broke Everything with Git.**
+> I messed up a rebase badly when I first joined CodinGame. My tech lead had me read the *Pro Git* book cover to cover. I've been a git wizard ever since.
