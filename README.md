@@ -15,7 +15,7 @@ I believe in building in public and sharing what I learn. Here are a couple of p
 **[Glasses MCP 👓](https://github.com/gourraguis/glasses-mcp)**
 > A simple but powerful tool that gives AI assistants the ability to "see" the web. It acts as a server that can take device-specific screenshots of any URL, giving visual context to language models.
 
-**[AI-Powered Portfolio](https://github.com/gourraguis/fixer)**
+**[Fixer](https://github.com/gourraguis/fixer)**
 > My personal portfolio, designed to be a bold and confident AI-powered conversational experience. It allows visitors to interact with a chatbot that knows my professional story, turning a static resume into a dynamic conversation.
 
 ## My Guiding Principles
